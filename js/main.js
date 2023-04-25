@@ -1,5 +1,3 @@
-
-
 const controle = document.querySelectorAll("[data-controle]")
 
 controle.forEach( (elemento) => {
